@@ -1,1 +1,31 @@
-{"Parameters":{"SEED":11}}
+{
+  "Parameters": {
+    "NUMBER_OF_ITERATIONS": 20000,
+    "STROKE_COLOR": {
+      "red": 5.0,
+      "green": 10.0,
+      "blue": 15.0,
+      "alpha": 10.0
+    },
+    "SEED": 11021985,
+    "BEZIER_FIRST_CONTROL_POINT_OFFSET": 1.5,
+    "BEZIER_GAUSSIAN_FACTOR": 0.5,
+    "CIRCLE_RADIUS_FACTOR": 0.004,
+    "WIDTH": 2000,
+    "BEZIER_SECOND_CONTROL_POINT_OFFSET": -0.5,
+    "FILL_COLOR": {
+      "red": 5.0,
+      "green": 10.0,
+      "blue": 15.0,
+      "alpha": 20.0
+    },
+    "HEIGHT": 2000,
+    "CHANCE_OF_CIRCLE": 0.01,
+    "BACKGROUND_COLOR": {
+      "red": 240.0,
+      "green": 240.0,
+      "blue": 240.0,
+      "alpha": 255.0
+    }
+  }
+}
